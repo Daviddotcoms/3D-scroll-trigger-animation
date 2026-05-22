@@ -9,5 +9,5 @@
 To run the project, you need to have installed nodejs and npm, then you just run the following command:
 
 ```bash
-npx serve .
+pnpm i && pnpm run dev
 ```
