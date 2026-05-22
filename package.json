@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Daviddotcoms/3D-scroll-trigger-animation#readme",
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "three": "^0.184.0",
     "vite": "^8.0.14"
   }

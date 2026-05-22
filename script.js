@@ -1,5 +1,8 @@
 import * as THREE from "three";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+import { inject } from "@vercel/analytics";
+
+inject();
 
 const lenis = new Lenis();
 
